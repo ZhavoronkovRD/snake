@@ -5,36 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f2468dc-399c-4f31-9cbd-4306c9ce56cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/SnakeGameApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/api/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/api/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/api/GameWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/api/KeyboardListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/api/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/api/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/api/SnakeSegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/api/UserInputParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/enums/MoveDirection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/enums/UserAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/FoodImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/GameControllerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/GameWorldImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/KeyboardListenerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/PositionImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/SnakeImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/SnakeSegmentImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/UserInputParserImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/game/snake/model/SnakeImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/game/snake/model/api/GameWorldTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/game/snake/model/impl/FoodImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/game/snake/model/impl/GameControllerImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/FoodImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/FoodImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/GameControllerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/GameControllerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/GameWorldImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/GameWorldImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/KeyboardListenerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/game/snake/model/impl/KeyboardListenerImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
