@@ -11,6 +11,8 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
 
+import java.io.IOException;
+
 class GameControllerImplTest {
 
     @Mock
@@ -28,7 +30,7 @@ class GameControllerImplTest {
     }
 
     @Test
-    void whenDoControlThenCallAllResources() {
+    void whenDoControlThenCallAllResources() throws IOException {
         controller.doControl();
         Mockito.verify(keyboardListener, Mockito.atLeastOnce()).readKey();
         Mockito.verify(inputParser, Mockito.atLeastOnce()).parse(Mockito.anyString());

@@ -11,7 +11,8 @@ public class SnakeImpl implements Snake {
 
     @Override
     public void setPosition(Position position) {
-        throw new UnsupportedOperationException();
+//       TODO: реализорвать метод установки положения змейки
+         throw new UnsupportedOperationException();
     }
 
     @Override
