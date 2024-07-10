@@ -5,8 +5,14 @@ import com.game.snake.model.api.Position;
 
 public class FoodImpl implements Food {
 
+    private final Position position;
+
+    public FoodImpl(Position position) {
+        this.position = position;
+    }
+
     @Override
     public Position getPosition() {
-        throw new UnsupportedOperationException();
+        return position;
     }
 }
